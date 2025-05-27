@@ -1,0 +1,7 @@
+# Eclipse specific files
+*.class
+*.log
+*.prefs
+.idea/
+.project
+.settings/
